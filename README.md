@@ -1,0 +1,1 @@
+This isgoing to be my first ever webdev project. I'm going to write a website that shows some recipies and possibly a picture. Hope I can learn some good stuff from this!
